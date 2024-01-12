@@ -8,7 +8,7 @@ These files are for the M6 version but the plan is to eventually add different s
 
 The cap comes in 3 sizes and the base in 2 - use whichever fits your project the best.
 
-You will need brass hardward to complete the build you can find these at the link below or whereever locally:
+You will need brass hardware to complete the build. You can find these at the link below or whereever locally:
 
 Threaded rod: https://s.click.aliexpress.com/e/_De6Zpov
 
